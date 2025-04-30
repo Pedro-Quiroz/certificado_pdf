@@ -24,3 +24,9 @@ El script genera un archivo PDF que incluye:
 - reportlab
 - qrcode
 - Pillow
+
+## 🧾 Ejemplo de certificado
+
+A continuación se muestra un ejemplo visual de un certificado generado:
+
+![Certificado de ejemplo](img/certificado.jpg)
